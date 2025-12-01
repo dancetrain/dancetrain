@@ -1,4 +1,4 @@
 # Hey! Welcome aboard
 
-## Advent of Code 2025
-https://adventofcode.com/2025
+## Just for fun
+[https://adventofcode.com/2025](https://github.com/dancetrain/advent-of-code-2025)
