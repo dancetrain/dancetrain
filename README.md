@@ -1,4 +1,4 @@
 # Hey! Welcome aboard
 
-## Just for fun
-[https://adventofcode.com/2025](https://github.com/dancetrain/advent-of-code-2025)
+## About me
+Senior Software Engineer with 15+ years building customer-facing products across web, mobile, and backend systems. Strong product ownership mindset guiding from proof-of-concept to production level. Deep experience across full-stack development, distributed backends. Mentoring engineers and knowledge sharing.,
